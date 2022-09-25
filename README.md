@@ -1,3 +1,5 @@
+[Check It Out](https://habiburrehmanbhattii.github.io/Picture-in-picture/)
+
 ### Introduction 
  This project is on PictureInPicture mode in browser. This project is made using HTML, CSS and JavaScript. This project is made by using HTML video tag and JavaScript.
  In JavaScript we have used the method requestPictureInPicture() to make the video in PictureInPicture mode. It is a very simple project and easy to understand.
